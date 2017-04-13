@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 25px;
+    background: rgba(240, 240, 240, 0.9);
+}
+
+h1 {
+  margin-top: 0;
+}
+
+#font-size-chooser a {
+  display: inline-block;
+  background-color: #ccc;
+  width: 180px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  text-decoration: none;
+}
