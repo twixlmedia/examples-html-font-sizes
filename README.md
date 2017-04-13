@@ -16,6 +16,8 @@ Open a terminal in the root folder and run the following command:
 python package_articles.py .
 ```
 
+This will produce the ```*.article``` files which can be uploaded to the [Twixl Distribution Platform](https://platform.twixlmedia.com).
+
 ## How does it work?
 
 The core of this example is contained in the ```__SharedResources/font_size.js``` script.
